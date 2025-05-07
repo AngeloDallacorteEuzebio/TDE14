@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\bin\Debug\net8.0\TDE14.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\bin\Debug\net8.0\TDE14.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\bin\Debug\net8.0\TDE14.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\bin\Debug\net8.0\TDE14.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\bin\Debug\net8.0\TDE14.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\refint\TDE14.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\TDE14.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE14\TDE14\obj\Debug\net8.0\ref\TDE14.dll
